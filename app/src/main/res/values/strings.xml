@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="write_coordinat">Запись координат</string>
+    <string name="stop_writing">Остановить запись</string>
+    <string name="show_map_string">Показать карту</string>
+    <string name="filePath">/sdcard/Android/data/dm.gps/files</string>
+    <string name="fileName">db.txt</string>
+    <string name="fileSettings">settings.txt</string>
+    <string name="clear_db">Очистить базу</string>
+    <string name="time_update_gps">Время обновления по GPS</string>
+    <string name="time_update_network">Время обновления по сети</string>
+    <string name="open_settings">Открыть настройки</string>
+</resources>
